@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ديوان عبد الله - الجزائر وفلسطين</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      background-color: #121212;
+      color: #f1f1f1;
+      font-family: "Amiri", serif;
+      line-height: 1.8;
+      direction: rtl;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #00ffc3;
+      font-size: 2rem;
+      margin-bottom: 40px;
+    }
+
+    .poem {
+      white-space: pre-wrap;
+      font-size: 1.2rem;
+    }
+
+    .share-btn {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .share-btn a {
+      display: inline-block;
+      background-color: #0078ff;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
+      }
+      h1 {
+        font-size: 1.5rem;
+      }
+      .poem {
+        font-size: 1rem;
+      }
+      .share-btn a {
+        font-size: 0.9rem;
+        padding: 10px 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ديوان عبد الله</h1>
+    <div class="poem">
+تلك الروح…
+غارقةٌ في بحرٍ من الظلام،
+وأنا؟
+أحمل كيسًا صغيرًا من الكلمات
+وأحاول أن أملأ البحر بالرمل.
+
+يا للسخرية...
+كيف لكائنٍ ضعيفٍ مثلي
+أن يصنع برًّا
+في قلب الهاوية؟
+
+لكنني لم أهرب.
+بنيت له جزيرةً صغيرة
+من نور،
+يمكنه البقاء عليها…
+إن أراد الحياة.
+
+أشرت إليه من بعيد:
+"هنا الأمان…
+هنا النجاة…
+هنا الله"
+لكنه أعرض.
+
+لم يكن الظلام حوله،
+كان الظلام منه.
+خرج منه كالدخان،
+فغلف نفسه…
+ثم حاول أن يغلفني.
+
+فهمت…
+أنه ليس غريقًا فقط،
+بل موجًا يسحب النور معه.
+
+فتركت القارب،
+وعدت إلى اليابسة.
+لا ذنب لي.
+أنا زرعت،
+وسقيت،
+وانتظرت.
+
+لكن تلك التربة…
+فقيرةٌ بالرجاء،
+لم تُنبت…
+إلا الندم.
+    </div>
+
+    <div class="share-btn">
+      <a href="fb-messenger://share/?link=https://mohamad12377.github.io/abdullah-poetry/" target="_blank">
+        شارك في ماسنجر 📩
+      </a>
+    </div>
+  </div>
+</body>
+</html>
